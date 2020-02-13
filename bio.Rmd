@@ -1,0 +1,15 @@
+---
+title: "Bio"
+author: "TW"
+date: "2/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Bio
+
+This is me
+

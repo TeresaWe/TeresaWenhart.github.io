@@ -7,8 +7,8 @@ navbar:
       href: index.html
     - text: "Bio"
       href: bio.html
-    #- text: "Writing"
-      #href: research.html
+    - text: "Music"
+      href: music.html
    # - text: "Speaking"
       #href: talks.html
     #- text: "Programming"

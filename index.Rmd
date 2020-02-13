@@ -1,7 +1,7 @@
 ---
-title: "My Website"
-author: "TW"
-date: "2/12/2020"
+title: "Welcome"
+author: ""
+date: ""
 output: html_document
 ---
 
@@ -9,6 +9,6 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## My Website
+## 
 
-Hello
+Welcome

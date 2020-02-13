@@ -304,7 +304,15 @@ $(document).ready(function () {
 <p>…</p>
 </div>
 
-<p>Copyright &copy; 2016 Skynet, Inc. All rights reserved.</p>
+<!DOCTYPE html>
+
+
+<p>Copyright &copy; Teresa Wenhart. Last update: <span id="datetime"></span></p>  
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleString();
+</script>
+<p>All rights reserved.</p>
 
 
 
